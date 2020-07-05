@@ -1,0 +1,40 @@
+.myclase{
+height:100px;
+	width:100px;
+	color: red;
+	font-size: 20px;
+	background-color: green;
+	border: solid 3px brown; 
+	padding-left: 30px;
+	padding-top: 30px;
+	margin:40px; 
+	padding-bottom: 30px;
+	display:inline-block;
+}
+.user{
+	width:40px;
+	height:40px;
+	border-radius:20%;
+	
+	position:absolute;
+	padding:10px;
+	top:calc(10/2px);
+	left:calc(20%-50px);
+
+	
+}
+p{
+	outline:none;
+	font-size:11px;
+	padding:20px;
+	margin-right:30px;
+	padding-top:20px;
+	cursor:pointer;
+
+
+}
+label{
+	padding:40px;
+	font-size:20px;
+
+}
